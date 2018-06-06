@@ -31,9 +31,9 @@ public class BrowseChrome {
 	
 	@AfterTest
 	public void tearup()
-	{
-		driver.close();
+	{		
 		System.out.println("Closing Browser");
+		driver.close();
 	}
 
 }
