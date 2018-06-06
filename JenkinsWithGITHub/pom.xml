@@ -44,7 +44,7 @@
 				<version>2.17</version>
 				<configuration>
 					<includes>
-						<include>**/Chrome.java</include>
+						<include>**/*Chrome.java</include>
 					</includes>
 				</configuration>
 			</plugin>
